@@ -22,10 +22,6 @@ LeetMetric is a web-based application that helps you track and visualize your Le
   - Flexbox for layout structure
   - Mobile-first design for responsiveness
 
-## Demo
-
-You can try a live demo of the project [here](#). *(Add your demo link if hosted)*
-
 ## Installation and Setup
 
 1. Clone the repository:
