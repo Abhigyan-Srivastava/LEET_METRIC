@@ -26,7 +26,7 @@ LeetMetric is a web-based application that helps you track and visualize your Le
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/LeetMetric.git
+    git clone https://github.com/Abhigyan-Srivastava/LeetMetric.git
     ```
 2. Navigate to the project directory:
     ```bash
